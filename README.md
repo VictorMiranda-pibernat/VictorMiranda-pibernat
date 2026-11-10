@@ -8,9 +8,6 @@
   </a>
 </div>
 <br/>
----
-
-### 
 <br/>
 ---
 
@@ -63,4 +60,20 @@
 </div>
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=VictorMiranda-pibernat&theme=dark&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&background=0d1117"/>
+</div>
+---
+
+### 📬 Onde me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/victor-sarti-7370933aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf" />
+  </a>
+  <a href="https://github.com/victor-sarti" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00bfbf" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:800020,100:0d1117&height=120&section=footer"/>
 </div>
